@@ -1,0 +1,23 @@
+              precision    recall  f1-score   support
+
+    American       0.50      0.00      0.01       788
+     British       0.65      0.70      0.67      1132
+     Chinese       0.98      0.92      0.95       909
+    Egyptian       0.25      0.14      0.18      1129
+     Emirati       0.27      0.42      0.33      1184
+      French       0.84      0.88      0.86      1212
+      German       0.82      0.89      0.85      2387
+      Indian       0.68      0.92      0.78      3286
+  Indonesian       0.96      0.73      0.83      1202
+     Italian       0.90      0.63      0.74      1002
+    Japanese       0.99      0.98      0.99       779
+   Jordanian       0.26      0.08      0.12      1093
+ Palestinian       0.94      0.80      0.87      1128
+     Persian       0.90      0.82      0.86      1116
+       Saudi       0.93      0.91      0.92      1066
+     Spanish       0.70      0.98      0.82      2428
+     Turkish       0.96      0.87      0.91      1150
+
+    accuracy                           0.74     22991
+   macro avg       0.74      0.69      0.69     22991
+weighted avg       0.73      0.74      0.72     22991
